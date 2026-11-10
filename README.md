@@ -1,112 +1,89 @@
-
-# Carlos Eduardo Urci
-
 <div align="center">
 
-### Software Development · Banking Technology · Financial Markets
+![Carlos Eduardo Urci — Software Engineering and Financial Technology](./assets/quant-banner.png)
 
-Building real-world solutions through software, data and technology.
+### Software Engineering · Banking Technology · Quantitative Finance
 
-**Barueri, São Paulo, Brazil**
+*Building real-world software and exploring the intersection of technology, data and financial markets.*
 
-[Português](#-português) · [English](#-english)
+[**Português**](#português) · [**English**](#english) · [**Projects**](#projects--projetos)
 
 </div>
 
 ---
 
-## 🇧🇷 Português
+## Português
 
-### Olá, eu sou o Carlos! 👋
+Olá! Sou **Carlos Eduardo Urci**, desenvolvedor em evolução, baseado em **Barueri, São Paulo**. Construo projetos de software e tenho interesse em engenharia de sistemas, dados e tecnologia para o mercado financeiro.
 
-Sou um desenvolvedor em evolução, apaixonado por tecnologia, resolução de problemas e construção de soluções digitais.
+Meu objetivo de longo prazo é trabalhar com **software para bancos e instituições financeiras**, aprofundando conhecimentos em sistemas confiáveis, bancos de dados, automação, algoritmos e computação quantitativa.
 
-Tenho interesse especial em **engenharia de software, desenvolvimento de sistemas, bancos de dados e tecnologia aplicada ao mercado financeiro**.
-
-Meu objetivo é construir uma carreira na interseção entre tecnologia e finanças, explorando áreas como sistemas bancários, engenharia de dados, automação e computação quantitativa.
-
-- 💻 Desenvolvendo projetos e aprimorando minhas habilidades técnicas
-- 🏦 Interesse em tecnologia bancária e mercados financeiros
-- 📊 Explorando dados, algoritmos e sistemas de alto desempenho
-- 🚀 Foco em aprendizado contínuo e soluções escaláveis
-- ✈️ Apaixonado por aviação, astronomia e tecnologia
-
-### Tecnologias e ferramentas
-
-**Desenvolvimento web**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css&logoColor=1572B6)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-
-### Projeto em destaque
-
-#### [Aura Odontologia](https://github.com/carbzadev/aura-odontologia)
-
-Website institucional moderno para uma clínica odontológica, desenvolvido com **Next.js e TypeScript**, com foco em experiência do usuário, responsividade e apresentação profissional.
-
-> Repositório atualmente privado.
-
-### Interesses profissionais
+<details>
+<summary><strong>Áreas de interesse / Areas of interest</strong></summary>
 
 - Engenharia de software e arquitetura de sistemas
-- Desenvolvimento de aplicações bancárias e financeiras
+- Sistemas bancários e infraestrutura financeira
 - Bancos de dados e engenharia de dados
-- Algoritmos, automação e otimização
-- Mercado financeiro, trading institucional e computação quantitativa
+- Automação, algoritmos e desempenho
+- Mercados financeiros e computação quantitativa
+
+</details>
+
+## English
+
+Hi! I'm **Carlos Eduardo Urci**, an aspiring software developer based in **Barueri, São Paulo, Brazil**. I build software projects and enjoy learning about systems engineering, data and financial technology.
+
+My long-term goal is to work on **software for banks and financial institutions**, developing strong foundations in reliable systems, databases, automation, algorithms and quantitative computing.
 
 ---
 
-## 🇺🇸 English
+## Stack / Tecnologias
 
-### Hi, I'm Carlos! 👋
+**Web development / Desenvolvimento web**
 
-I'm an aspiring software developer passionate about technology, problem-solving and building meaningful digital solutions.
+![TypeScript](https://img.shields.io/badge/TypeScript-151a26?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-151a26?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-151a26?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-151a26?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-151a26?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-151a26?style=flat-square&logo=css&logoColor=1572B6)
 
-I'm particularly interested in **software engineering, systems development, databases and financial technology**.
+**Tools / Ferramentas**
 
-My long-term goal is to build a career at the intersection of technology and finance, exploring banking systems, data engineering, automation and quantitative computing.
+![Git](https://img.shields.io/badge/Git-151a26?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-151a26?style=flat-square&logo=github&logoColor=white)
 
-- 💻 Building projects and strengthening my technical skills
-- 🏦 Interested in banking technology and financial markets
-- 📊 Exploring data, algorithms and high-performance systems
-- 🚀 Focused on continuous learning and scalable solutions
-- ✈️ Passionate about aviation, astronomy and technology
+> These are technologies used in my current web projects. My interests in banking and quantitative finance represent areas I'm working toward, not professional experience I claim to have.
 
-### Featured Project
+---
 
-#### [Aura Odontologia](https://github.com/carbzadev/aura-odontologia)
+## Projects / Projetos
 
-A modern dental clinic website built with **Next.js and TypeScript**, focused on user experience, responsive design and a professional digital presence.
+### Aura Odontologia
 
-> Repository currently private.
+**PT:** Website institucional para uma clínica odontológica, construído com **Next.js e TypeScript**, com foco em interface, responsividade e experiência do usuário.
 
-### Career Interests
+**EN:** Institutional website for a dental clinic, built with **Next.js and TypeScript**, focusing on interface design, responsiveness and user experience.
 
-- Software engineering and system architecture
-- Banking and financial software development
-- Databases and data engineering
-- Algorithms, automation and optimization
-- Financial markets, institutional trading and quantitative computing
+**Status:** Private repository / Repositório privado. Public code and demo are not yet available.
+
+---
+
+## Roadmap / Próximos passos
+
+| Em desenvolvimento / In progress | Direção / Direction |
+| --- | --- |
+| Software engineering | Clean code, testing and system design |
+| Data and databases | SQL, modeling and data pipelines |
+| Financial technology | Banking systems and financial APIs |
+| Quantitative computing | Python, statistics and market data |
 
 ---
 
 <div align="center">
 
-### Let's build something meaningful.
+**Engineering software with purpose.**
 
-**Software · Data · Finance · Technology**
-
-[GitHub](https://github.com/carbzadev)
+[GitHub](https://github.com/carbzadev) · Barueri, São Paulo, Brazil
 
 </div>
-
